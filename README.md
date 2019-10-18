@@ -47,7 +47,11 @@ Yakuake
 * sudo apt install -y yakuake
 
 
+---
+How to use
 
+Just run ./main.sh.
+This script will execute all others scripts in applications directory.
 
 
 
