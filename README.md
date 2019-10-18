@@ -48,7 +48,7 @@ Yakuake
 
 
 ---
-How to use
+# How to use
 
 Just run ./main.sh.
 This script will execute all others scripts in applications directory.
