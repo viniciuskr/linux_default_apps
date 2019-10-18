@@ -2,16 +2,16 @@
 A script to install some applications on new debian-based Linux installations.
 
 The script install:
-* Google Chrome
-* DBEaver - Database manager for multiples DBMS. (https://dbeaver.io/files/dbeaver-ce_latest_amd64.deb)
-* Visual Studio Code (https://go.microsoft.com/fwlink/?LinkID=760868)
-* Yakuake ()
-* git
-* python
-* Transmission
-* vim
-* PostgreSQL
-* VLC
+* Google Chrome - Browser
+* DBEaver - Database manager for multiples DBMS
+* Visual Studio Code
+* Yakuake - Quake style terminal
+* Git - source control tool
+* Python
+* Transmission - Torrent client
+* vim - Text editor
+* PostgreSQL - Open source database
+* VLC - Media player
 
 The script removes:
 * Firefox
