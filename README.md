@@ -12,11 +12,11 @@ The script install:
 * vim
 * PostgreSQL
 * VLC
-* 
 
-The script remove:
+The script removes:
 * Firefox
-* 
+
+---
 
 Google Chrome:
 * sudo apt-get install libxss1 libappindicator1 libindicator7
