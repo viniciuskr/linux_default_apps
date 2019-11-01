@@ -12,6 +12,9 @@ The script install:
 * vim - Text editor
 * PostgreSQL - Open source database
 * VLC - Media player
+* Python3.8
+* Docker
+* Docker Compose
 
 The script removes:
 * Firefox
